@@ -1,0 +1,8 @@
+
+*.class
+
+*.plist
+
+src/topocaca.dSYM/Contents/Resources/DWARF/topocaca
+
+src/topocaca
